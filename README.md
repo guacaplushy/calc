@@ -1,3 +1,3 @@
 # calc
 A simple calculator in C.
-This is my firat C program!
+This is my first C program!
